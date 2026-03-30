@@ -5,6 +5,10 @@ STUDENT MANAGEMENT SYSTEM
 a program created to manage, add, search, delete and update students from a local school.
 this program is a terminal based program created in Python language.
 
+HOW TO USE IT?
+once you open the S.M.S in your terminal you will have the menu displayed. Choose from the available options to either add, delete, update or just show the students on the list.
+Once you choose the option, the terminal will guide you through.
+
 It contains:
 - Dictionary
 - Menu
